@@ -1,3 +1,4 @@
+! array operations
 program arrayops
 	implicit none
 	real (kind = 8), dimension(3,2) :: A
