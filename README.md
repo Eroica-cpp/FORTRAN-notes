@@ -2,3 +2,9 @@ FORTRAN notes
 =============
 
 This repo contains materials that I used or code I wrote to learn FORTRAN. I also write notes to help recall.
+
+Progress
+-------------
+
+week3 done!
+2014年 04月 28日 星期一 16:00:38 HKT
