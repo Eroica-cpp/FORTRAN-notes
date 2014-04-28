@@ -8,3 +8,5 @@ Progress
 
 week3 done!
 2014年 04月 28日 星期一 16:00:38 HKT
+2014年 04月 28日 星期一 22:29:28 HKT
+week4-1-1 done   
