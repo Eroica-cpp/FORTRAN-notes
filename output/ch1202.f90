@@ -1,3 +1,4 @@
+! I format and space(e.g. 1x)
 program ch1202
 
 	implicit none
@@ -10,6 +11,5 @@ program ch1202
 		200 format(1x, I3, 2x, I12)
 		big = big * 10
 	end do
-
 
 end program ch1202
