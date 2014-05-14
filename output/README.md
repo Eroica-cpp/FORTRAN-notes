@@ -6,4 +6,4 @@ output
 2. open, write, close
 
 ### Reference
-Introduction to Programming with Fortran
+[Introduction to Programming with Fortran](http://www.springer.com/computer/swe/book/978-0-85729-232-2), Chapter 12
