@@ -1,2 +1,4 @@
  I want to write something:something
  another line
+ I want to write something:something
+ another line
